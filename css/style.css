@@ -1,0 +1,8 @@
+.list-inline-item{
+    font-size: 2em;
+}
+.card{
+	 background-image: url('img/hakathon.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; }
